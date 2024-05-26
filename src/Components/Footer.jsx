@@ -20,7 +20,7 @@ export default function Footer() {
       <img src='https://i.imgur.com/kjUx4vW.png' alt="Instagram Icon" />
     </div>
   </div>
-    <div className="footer-centered-text">©2023 by Dhara Global Solutions.</div>
+    <div className="footer-centered-text">©2024 by Dhara Global Solutions.</div>
   </div>
     </>
   )
